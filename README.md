@@ -1,4 +1,4 @@
-# Blockchain workshop
+# Task 7 dapp
 
 Start UI:
 
